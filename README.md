@@ -35,7 +35,7 @@ This `main` repo contains:
 - `cyber_triage/` – Tactical forensics toolkit
 - `llm_lab/` – Transformers, experiments, and models
 - `tools/` – Personal utilities, scripts, and AI integrations
-- `ai-bootcamp/daily_logs/zepto_sort` - Tampermonkey script to add sorting to Zepto grocery site. Simple client-side patch for missing functionality.  
+- `ai-bootcamp/daily_logs/zepto_sort` - Tampermonkey script to add sorting to ZeptoNow grocery site. Simple client-side patch for missing functionality.  
 - `README.md` – This file 😊
 
 ## 📫 Contact
