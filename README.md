@@ -35,7 +35,7 @@ This `main` repo contains:
 - `cyber_triage/` – Tactical forensics toolkit
 - `llm_lab/` – Transformers, experiments, and models
 - `tools/` – Personal utilities, scripts, and AI integrations
-- `zepto_sort` - Sort functionality for ZeptoNow  
+- `ai-bootcamp/daily_logs/zepto_sort` - Sort functionality for ZeptoNow  
 - `README.md` – This file 😊
 
 ## 📫 Contact
