@@ -18,7 +18,7 @@ I'm passionate about building tools that are not only functional but also visual
 
 I'm currently working on:
 
-- 🤖 **Face Recognition System** – Real-time recognition with interactive commendations & visual feedback.
+- 🤖 **deepBuffer** – shared memory pipeline for scale matrix processing with real-time telemetry and monitoring. 
 - 🔐 **Cyber Triage Toolkit** – For the Anti-Cyber Terrorism Division, built with speed, clarity, and field usability in mind.
 - 🧠 **LLM Playground** – Exploring transformer models with Hugging Face, TensorFlow, and PyTorch to move from Software 1.0 to 3.0.
 
@@ -31,7 +31,7 @@ I'm currently working on:
 
 This `main` repo contains:
 
-- `face_recognition/` – Intelligent real-time recognition system
+- `DeepBuffer/` – shared memory pipeline for scale matrix processing with real-time telemetry and monitoring. 
 - `cyber_triage/` – Tactical forensics toolkit
 - `llm_lab/` – Transformers, experiments, and models
 - `tools/` – Personal utilities, scripts, and AI integrations
