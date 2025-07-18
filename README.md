@@ -1,6 +1,6 @@
 # 🚀 Vedant's Garage
 
-Welcome to my hub of experiments, breakthroughs, and learnings as I explore the frontiers of computer science and software engineering.
+Welcome to my Garage of experiments, breakthroughs, and learnings as I explore the frontiers of computer science and software engineering.
 
 ## 👨‍💻 About Me
 
