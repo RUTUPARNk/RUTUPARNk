@@ -1,49 +1,24 @@
-# 🚀 Vedant's Garage
+# 💫 About Me:
+I'm currently working on Event Driven Architecture<br>I'm looking to collaborate on astronomical dataset analysis<br>I'm currently learning Data analysis<br>fun fact: I hacked iOS 9.3.5 in my seventh Grade.
 
-Welcome to my Garage of experiments, breakthroughs, and learnings as I explore the frontiers of computer science and software engineering.
 
-## 👨‍💻 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant7591) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuparn-kulkarni-61b86a394) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rutuparn47) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avedant34@gmail.com) 
 
-Hey there! I'm **Vedant**, a Computer Science undergrad with an insatiable curiosity for solving real-world problems using tech. My work revolves around:
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=flat&logo=dgraph&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat&logo=couchbase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RUTUPARNk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RUTUPARNk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RUTUPARNk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🧠 **Machine Learning & Deep Learning**
-- 🕵️‍♂️ **Cybersecurity & Digital Forensics**
-- 🧰 **Automation Tools & Simulators**
-- 🛠️ **System-Level Programming**
-- 🎨 **Human-Centered Interfaces & AI Agents**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RUTUPARNk&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
 
-I'm passionate about building tools that are not only functional but also visually and interactively engaging – blending logic with aesthetics.
-
-## 🔍 Current Focus
-
-I'm currently working on:
-
-- 🤖 **deepBuffer** – shared memory pipeline for scale matrix processing with real-time telemetry and monitoring. 
-- 🔐 **Cyber Triage Toolkit** – For the Anti-Cyber Terrorism Division, built with speed, clarity, and field usability in mind.
-- 🧠 **LLM Playground** – Exploring transformer models with Hugging Face, TensorFlow, and PyTorch to move from Software 1.0 to 3.0.
-
-## 🧪 Core Philosophy
-
-> _"If you're going to build it, make it intelligent. be it beautiful. And so be it yours."_  
-- I like systems that **feel alive**, **react fast**, and **tell a story**.
-
-## 📂 What's in This Repository?
-
-This `main` repo contains:
-
-- `DeepBuffer/` – shared memory pipeline for scale matrix processing with real-time telemetry and monitoring. 
-- `cyber_triage/` – Tactical forensics toolkit
-- `llm_lab/` – Transformers, experiments, and models
-- `tools/` – Personal utilities, scripts, and AI integrations
-- `ai-bootcamp/daily_logs/zepto_sort` - Tampermonkey script to add sorting to ZeptoNow grocery site. Simple client-side patch for missing functionality.  
-- `README.md` – This file 😊
-
-## 📫 Contact
-
-Want to collaborate, ask something, or just connect?
-
-- 📧 Email: *`avedant34@gmail.com`*
-- 💼 [LinkedIn]* `Didn't had the time `*
-- 🧠 Portfolio/Blog: *Coming soon*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RUTUPARNk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RUTUPARNk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
